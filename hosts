@@ -1,0 +1,4 @@
+centos-jenkins    ansible_ssh_host=54.187.84.203  ansible_user=user
+
+[server]
+centos-jenkins
